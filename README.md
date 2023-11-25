@@ -19,4 +19,6 @@ Focused on kernel-level implementation of mmap, munmap, and mprotect system call
 
 - **Grading:** Attained full marks - 100/100.
 
-**Note:** All assignments were individual, and the evaluation test cases were not disclosed beforehand during grading :)
+**Note:** In Assignment 2 and 3, we were given the object files for various other files and we had to modify the relevant files (tracer.c in 2 and v2p.c in 3).
+  
+**PS:** All assignments were individual, and the evaluation test cases were not disclosed beforehand during grading :)
